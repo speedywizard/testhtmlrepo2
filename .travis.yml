@@ -1,7 +1,4 @@
-language: ruby
-rvm: 2.5
+os_custom: test1
 script:
 - echo 1
-cache:
-  directories:
-    - /home/travis/.rvm
+- python3 --version
