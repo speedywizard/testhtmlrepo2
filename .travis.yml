@@ -1,4 +1,4 @@
-os_custom: test2
+os_custom: test3
 group: dev
 virt: lxd
 script:
