@@ -1,6 +1,6 @@
-os_custom: image4
+os_custom: test2
 group: dev
 virt: lxd
 script:
 - echo 1
-- python3 --version
+- g++ --version
