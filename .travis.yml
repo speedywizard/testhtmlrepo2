@@ -1,6 +1,7 @@
 os_custom: test5
 group: dev
 virt: lxd
+language: c
 script:
 - echo 1
 - g++ --version
